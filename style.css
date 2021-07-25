@@ -1,0 +1,23 @@
+body{
+    background-color: #AA3939;
+    text-align: center;
+}
+#container{
+    background-color: #27566B;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    border: solid 5px white;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    right: -40%;
+}
+.title{
+    background-color: #76276C;
+    width: 200px;
+    color: white;
+    border: solid 5px white;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    right: -40%;
